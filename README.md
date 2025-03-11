@@ -8,9 +8,9 @@
 
 <p align="justify">
 
-:mortar_board: Engenheira eletricista com mestrado em controle e automação em migração de carreira para área de engenharia de software.
+:mortar_board: Engenheira eletricista com mestrado em controle e automação em migração de carreira para área de desenvolvimento de software.
 
-:books: Cursando pós-graduação em Engenharia de Software no Instituto Infnet com previsão de conclusão em Março/2026.
+:books: Cursando pós-graduação em Engenharia de Software no Instituto Infnet com ênfase em desenvolvimento de software corporativo na plataforma Java e em metodologias ágeis. Previsão de conclusão em Março/2026.
 
 🚀 Desenvolvendo habilidades em Backend, Java, Spring, Azure, IA, por meio de projetos práticos.
 
