@@ -31,16 +31,18 @@ Estou em constante processo de aprendizagem, sempre com curiosidade aguçada, co
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/KarlaAlmeida)
 
 
-## Habilidades em desenvolvimento
+## Habilidades
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=30A3DC)
 ![Spring](https://img.shields.io/badge/spring-000.svg?style=for-the-badge&logo=spring&logoColor=8A2BE2)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb&logoColor=30A3DC)
-![Azure](https://img.shields.io/badge/Azure-000.svg?style=for-the-badge&logo=azure&logoColor=8A2BE2)
+![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=white&style=for-the-badge)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=30A3DC)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=8A2BE2)](https://docs.github.com/)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white&style=for-the-badge)
 
 ## Ferramentas de desenvolvimento
 
+![ntelliJ](https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=white&style=for-the-badge)
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)
 ![Eclipse](https://img.shields.io/badge/Eclipse-000.svg?style=for-the-badge&logo=Eclipse&logoColor=30A3DC)
 
