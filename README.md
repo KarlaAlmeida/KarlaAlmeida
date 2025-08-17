@@ -8,14 +8,14 @@
 
 <p align="justify">
 
-:mortar_board: Engenheira eletricista com mestrado em controle e automação em migração de carreira para área de desenvolvimento de software.
+:mortar_board: Sou engenheira eletricista em transição para a engenharia de software, com foco em desenvolvimento backend utilizando Java e o ecossistema Spring.
 
-:books: Cursando pós-graduação em Engenharia de Software no Instituto Infnet com ênfase em desenvolvimento de software corporativo na plataforma Java e em metodologias ágeis. Previsão de conclusão em Março/2026.
+:books: Atualmente, curso Pós-graduação em Engenharia de Software no Instituto Infnet (conclusão em abril/2026) e venho consolidando minha formação por meio de projetos práticos em microsserviços, APIs RESTful, bancos de dados relacionais e não relacionais, aplicando metodologias ágeis.
 
-🚀 Desenvolvendo habilidades em Backend, Java, Spring, Azure, IA, por meio de projetos práticos.
+🚀 Desenvolvendo habilidades em Testes automatizados (unitários e de integração), Contêineres com Docker e cultura DevOps, Cloud computing, Ferramentas de monitoramento e observabilidade, Mensageria com filas e brokers de mensagens.
 
-:boom: Minha experiência profissional em obras, manutenção e projetos em engenharia elétrica me permitiu desenvolver habilidades transferíveis em pensamento crítico, resolução de problemas, adaptabilidade, resiliência, flexibilidade e agilidade.
-Estou em constante processo de aprendizagem, sempre com curiosidade aguçada, com mentalidade de crescimento e em busca de novos conhecimentos. 
+:boom: Minha trajetória profissional anterior inclui atuação em projetos de grande porte em obras, manutenção e infraestrutura hospitalar, industrial e comercial, onde desenvolvi e liderei equipes multidisciplinares. Nessas experiências, construí habilidades altamente transferíveis para tecnologia, como: Gestão de projetos complexos, prazos, custos e indicadores, Resolução de problemas críticos em ambientes de alta pressão, Comunicação eficaz entre equipes e stakeholders, Adaptabilidade, resiliência e foco em resultados.
+Com uma mentalidade de crescimento e curiosidade constante, estou preparada para assumir responsabilidades no desenvolvimento de software backend, contribuindo com qualidade, organização e visão de negócio.
 <br>
 
 <!--
